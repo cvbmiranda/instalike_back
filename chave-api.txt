@@ -1,3 +1,0 @@
-AIzaSyA-0JfKWu7el8kV1n0-lJqZFPorEK8FWYU
-caiovbm - tcOLLG0kDrNZb8zM
-mongodb+srv://caiovbm:tcOLLG0kDrNZb8zM@cluster0.lyz3m.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
